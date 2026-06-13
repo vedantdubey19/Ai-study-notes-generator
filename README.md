@@ -132,5 +132,3 @@ Study_AI/
 ## Collaborative Update 
 Improved project documentatio and project details
 
-...Files added new 
-
