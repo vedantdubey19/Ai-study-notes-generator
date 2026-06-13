@@ -129,5 +129,6 @@ Study_AI/
 *   **Vedant Dubey** - [@vedantdubey19](https://github.com/vedantdubey19)
 
 ---
-
+## Collaborative Update 
+Improved project documentation...
 
